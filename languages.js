@@ -24,20 +24,20 @@ const translations = {
             barista: {
                 title: "Professional Barista",
                 description: "5 years of experience in specialty coffee shops",
-                location: "🇨🇳 Shanghai 2020-2023",
-                location2: "🇨🇳 Guangzhou 2023-2025",
-                location3: "🇳🇱 Amsterdam 2025 Apr"
+                location: "🇨🇳 Shanghai: 2020-2023",
+                location2: "🇨🇳 Guangzhou: 2023-2025",
+                location3: "🇳🇱 Amsterdam: from 2025 Apr"
             },
             manager: {
                 title: "Coffee Shop Manager",
                 description: "Managed multiple specialty coffee shops with focus on quality and customer service",
-                location: "🇨🇳 Shanghai 2022-2023",
-                location2: "🇨🇳 Guangzhou 2023-2025"
+                location: "🇨🇳 Shanghai: 2022-2023",
+                location2: "🇨🇳 Guangzhou: 2023-2025"
             },
             training: {
                 title: "Coffee Training",
                 description: "With experience as a coffee trainer, I've helped others grow their skills and confidence behind the bar",
-                location: "🇨🇳 Shanghai 2022-2023"
+                location: "🇨🇳 Shanghai: 2022-2023"
             }
         },
         contact: {
@@ -73,20 +73,20 @@ const translations = {
             barista: {
                 title: "Professionele Barista",
                 description: "5 jaar ervaring in specialty coffee shops",
-                location: "🇨🇳 Shanghai 2020-2023",
-                location2: "🇨🇳 Guangzhou 2023-2025",
-                location3: "🇳🇱 Amsterdam 2025 Apr"
+                location: "🇨🇳 Shanghai: 2020-2023",
+                location2: "🇨🇳 Guangzhou: 2023-2025",
+                location3: "🇳🇱 Amsterdam: Van 2025 Apr"
             },
             manager: {
                 title: "Koffiezaak Manager",
                 description: "Beheerd meerdere specialty coffee shops met focus op kwaliteit en klantenservice",
-                location: "🇨🇳 Shanghai 2022-2023",
-                location2: "🇨🇳 Guangzhou 2023-2025"
+                location: "🇨🇳 Shanghai: 2022-2023",
+                location2: "🇨🇳 Guangzhou: 2023-2025"
             },
             training: {
                 title: "Koffie Training",
                 description: "Met ervaring als koffietrainer heb ik anderen geholpen hun vaardigheden en vertrouwen achter de bar te ontwikkelen",
-                location: "🇨🇳 Shanghai 2022-2023"
+                location: "🇨🇳 Shanghai: 2022-2023"
             }
         },
         contact: {
@@ -121,21 +121,21 @@ const translations = {
             title: "经历",
             barista: {
                 title: "专业咖啡师",
-                description: "在精品咖啡店有5年工作经验",
-                location: "🇨🇳 上海 2020-2023",
-                location2: "🇨🇳 广州 2023-2025",
-                location3: "🇳🇱 阿姆斯特丹 2025年4月"
+                description: "在不同咖啡店有5年工作经验",
+                location: "🇨🇳 上海: 2020-2023",
+                location2: "🇨🇳 广州: 2023-2025",
+                location3: "🇳🇱 阿姆斯特丹: 從2025年4月"
             },
             manager: {
                 title: "咖啡店门店经理",
-                description: "管理多家精品咖啡店，注重品质和客户服务",
-                location: "🇨🇳 上海 2022-2023",
-                location2: "🇨🇳 广州 2023-2025"
+                description: "管理連鎖咖啡店，注重品质和客户服务",
+                location: "🇨🇳 上海: 2022-2023",
+                location2: "🇨🇳 广州: 2023-2025"
             },
             training: {
                 title: "咖啡培训",
                 description: "作为咖啡培训师，我帮助他人提升技能，增强在吧台工作的信心",
-                location: "🇨🇳 上海 2022-2023"
+                location: "🇨🇳 上海: 2022-2023"
             }
         },
         contact: {
