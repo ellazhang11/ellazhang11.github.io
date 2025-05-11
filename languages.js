@@ -14,7 +14,8 @@ const translations = {
         },
         about: {
             title: "About Me",
-            description: "A dedicated barista from China, now based in Amsterdam, crafting coffee with heart, skill, and a smile."
+            description: "A dedicated barista from China, now based in Amsterdam, crafting coffee with heart, skill, and a smile.",
+            workplace: "Currently working at Coffee District in Amsterdam, where I continue to pursue my passion for specialty coffee and create memorable experiences for coffee lovers."
         },
         portfolio: {
             title: "Portfolio"
@@ -63,7 +64,8 @@ const translations = {
         },
         about: {
             title: "Over Mij",
-            description: "Een toegewijde barista uit China, nu gevestigd in Amsterdam, die koffie maakt met hart, vaardigheid en een glimlach."
+            description: "Een toegewijde barista uit China, nu gevestigd in Amsterdam, die koffie maakt met hart, vakmanschap en een glimlach.",
+            workplace: "Momenteel werkzaam bij Coffee District in Amsterdam, waar ik mijn passie voor specialty coffee voortzet en memorabele ervaringen creëer voor koffieliefhebbers."
         },
         portfolio: {
             title: "Portfolio"
@@ -112,7 +114,8 @@ const translations = {
         },
         about: {
             title: "关于我",
-            description: "一位来自中国的专业咖啡师，现居阿姆斯特丹，用心、技艺和微笑冲泡每一杯咖啡。"
+            description: "一位来自中国的专业咖啡师，现居阿姆斯特丹，用心、技艺和微笑为每一杯咖啡注入灵魂。",
+            workplace: "目前在阿姆斯特丹的 Coffee District 工作，在这里继续追求我对精品咖啡的热爱，为咖啡爱好者创造难忘的体验。"
         },
         portfolio: {
             title: "作品集"
@@ -146,4 +149,4 @@ const translations = {
             copyright: "© 2024 Ella Zhang. 保留所有权利。"
         }
     }
-}; 
+};
